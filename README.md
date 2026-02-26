@@ -1,1 +1,3 @@
 # aprendendoGit
+Igor Corturato 
+    primeiroProjetoGit
